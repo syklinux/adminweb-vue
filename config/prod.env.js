@@ -1,5 +1,5 @@
 'use strict'
 module.exports = {
   NODE_ENV: '"production"',
-  BASE_API: '"http://120.78.83.118:55445"'
+  BASE_API: '"http://127.0.0.1:8080"'
 }
