@@ -1,6 +1,9 @@
 # adminweb-vue
-开源运维平台web端
-## 在测试环境下搭建
+
+![](http://api.coderops.net/media/image/active/20180830index.png)
+
+![](http://api.coderops.net/media/image/active/20180830login.png)
+
 
 ### 安装nodejs
 
@@ -60,4 +63,8 @@ npm run dev
 
 
 然后就可通过浏览器访问：`http://127.0.0.1:8081`
+
+
+![DEMO](http://admin.coderops.net/)
+
 
