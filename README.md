@@ -66,5 +66,7 @@ npm run dev
 
 
 This is an [demo](http://admin.coderops.net/)
-用户：guest   密码
+
+用户：guest   
+密码: guest_8126123
 
