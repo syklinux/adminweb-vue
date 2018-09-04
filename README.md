@@ -65,6 +65,6 @@ npm run dev
 然后就可通过浏览器访问：`http://127.0.0.1:8081`
 
 
-![http://admin.coderops.net/](http://admin.coderops.net/)
-
+This is an [demo](http://admin.coderops.net/)
+用户：guest   密码
 
